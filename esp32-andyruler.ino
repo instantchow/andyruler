@@ -5,6 +5,8 @@
 * 
 */
 
+   // love the hat and leather vest — expect to see these for your presentation of the next prototype
+
   // Hardware Defines
   
   // defines pins numbers
